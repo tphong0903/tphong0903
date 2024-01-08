@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 <h1 align="center">Hi 👋, I'm Phong</h1>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tphong0903&label=Profile%20views&color=0e75b6&style=flat" alt="tphong0903" /> </p>
 
 <h3 align="left">Connect with me:</h3>
